@@ -4,7 +4,7 @@
 ## I'm a  Developer and Student!
 
 - 🔭 I’m currently working on **Android & Web & Python Project** 
-- 🌱 I’m currently **learning everything 🤣**
+- 🌱 I’m currently **learning everything**
 - 🥅 2020 Goals: Contribute more projects
 - ⏳ Experimenting with **Blockchain**
 - 💬 Ask me **something interesting**
