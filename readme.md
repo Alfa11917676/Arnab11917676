@@ -10,7 +10,7 @@
 - 💬 Ask me **something interesting**
 - ⚡ Fun fact: **I love to Explore**
 
-<img src="https://www.bing.com/images/search?view=detailV2&ccid=tYKybVzS&id=302308ED0055BE47F923DB628AE61FD2715AA2C1&thid=OIP.tYKybVzSEMGuGuufvht_rgHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f68746%2fscreenshots%2f1443011%2fhomework_dribbble.gif&exph=600&expw=800&q=animated+Developer+gifs&simid=608050864340404441&ck=A0B07BD3173ADD1179DE04A3E3DF6FEA&selectedIndex=23&FORM=IRPRST&ajaxhist=0" alt="Coder GIF" width="500" height="400">
+<img src="![homework_dribbble](https://user-images.githubusercontent.com/59610398/102919217-7867d100-44ae-11eb-9b9e-51f39eb34980.gif)" alt="Coder GIF" width="500" height="400">
 
 
 
