@@ -10,7 +10,7 @@
 - 💬 Ask me **something interesting**
 - ⚡ Fun fact: **I love to Explore**
 
-<img src="![homework_dribbble](https://user-images.githubusercontent.com/59610398/102919217-7867d100-44ae-11eb-9b9e-51f39eb34980.gif)" alt="Coder GIF" width="500" height="400">
+<img src="https://user-images.githubusercontent.com/59610398/102919217-7867d100-44ae-11eb-9b9e-51f39eb34980.gif" alt="Coder GIF" width="500" height="400">
 
 
 
