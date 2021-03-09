@@ -8,6 +8,7 @@
 - 🥅 2020 Goals: Contribute more projects
 - ⏳ Experimenting with **Blockchain**
 - 💬 Ask me **something interesting**
+- ⚡ Co Founder of **Digicure**
 - ⚡ Fun fact: **I love to Explore**
 
 <img src="https://user-images.githubusercontent.com/59610398/102919217-7867d100-44ae-11eb-9b9e-51f39eb34980.gif" alt="Coder GIF" width="500" height="400">
@@ -52,7 +53,9 @@
 <br />
 <br />
 
-
+<p align="center">
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:Arnab11917676"></a>
+ </p>
 
 [twitter]:https://twitter.com/ArnabRa00302147
 
